@@ -18,7 +18,8 @@ July 2022
 
 ![Dimensions Side profiles](https://user-images.githubusercontent.com/29419798/180695647-1d83bf50-6cb0-47ee-847c-8c83d98957ac.png)
 
-![Magnet Install](https://user-images.githubusercontent.com/29419798/180697713-1239c627-77bc-4f8e-9c6a-a15ed0bad782.jpg)
-![Top Glued in](https://user-images.githubusercontent.com/29419798/180697715-bf3f726d-c712-46b2-85cd-c0beb92479f0.jpg)
+![Magnet Install](https://user-images.githubusercontent.com/29419798/180697799-e47e1319-03ad-49a9-a6ee-6d657bd3fa86.jpg)
+
+![Top Glued in](https://user-images.githubusercontent.com/29419798/180697812-9f71c21f-c26d-4762-a97d-ee581f32f827.jpg)
 
 ![Printed base with mounted figure no flocking Front](https://user-images.githubusercontent.com/29419798/180696887-dd98f979-18b8-4f26-a64a-07ca7627591b.jpg)
