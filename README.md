@@ -18,4 +18,4 @@ July 2022
 
 ![Dimensions Side profiles](https://user-images.githubusercontent.com/29419798/180695647-1d83bf50-6cb0-47ee-847c-8c83d98957ac.png)
 
-![Printed base with model mounted](https://user-images.githubusercontent.com/29419798/180695883-598e55db-0b12-45fb-abbd-e53dd9ef7547.jpg)
+![Printed base with mounted figure no flocking Front](https://user-images.githubusercontent.com/29419798/180696887-dd98f979-18b8-4f26-a64a-07ca7627591b.jpg)
